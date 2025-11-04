@@ -22,9 +22,6 @@ We welcome motivated postdoctoral researchers and graduate students to join our 
 招生专业：生物化学 (化学生物学与免疫调控方向)
 
 ## 📄 Publications
-<p align="center">
-<img width="358" alt="image" src="https://github.com/user-attachments/assets/1984b33d-7a7b-43fa-be3d-0b82f9eb40a6" />
-</p>
 
 1. Shuojun Li#, Yinghui Men#, Zihan Wang#, Yingcheng Wu#, Hao Sun, Mingyang Yin, Xinrui Fan, Guiyun Deng, Zhicheng Yang, Tiange Yang, Yudian Xiao, Hu Zhou, Guangchuan Wang, Jia Fan, Chenqi Xu, Qiang Gao*, Shuo Han*; Amplifying antigen-induced cellular responses with proximity labeling. Nature. 2025, s41586-025-09518-6.
 Highlighted by Nature Chemical Biology (Nat Chem Biol 21, 1643, 2025)
@@ -41,11 +38,8 @@ Highlighted by Cancer Discovery (Doi.org/10.1158/2159-8290.CD-RW2025-092)
 
    
 
-<p align="center">
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/0ee118dc-90c6-4abf-9538-c1377ceb42bd" />
-</p>
 
 
-## 🎯 Beyond Science
-I enjoy philosophy, coding, swimming, and traveling. 🥉 Bronze in breaststroke at Fudan | 🎻 Erhu Level 10
+
+
 
