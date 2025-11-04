@@ -24,8 +24,7 @@ We welcome motivated postdoctoral researchers and graduate students to join our 
 ## 📄 Publications
 
 1. Shuojun Li#, Yinghui Men#, Zihan Wang#, Yingcheng Wu#, Hao Sun, Mingyang Yin, Xinrui Fan, Guiyun Deng, Zhicheng Yang, Tiange Yang, Yudian Xiao, Hu Zhou, Guangchuan Wang, Jia Fan, Chenqi Xu, Qiang Gao*, Shuo Han*; Amplifying antigen-induced cellular responses with proximity labeling. Nature. 2025, s41586-025-09518-6.
-Highlighted by Nature Chemical Biology (Nat Chem Biol 21, 1643, 2025)
-Highlighted by Cancer Discovery (Doi.org/10.1158/2159-8290.CD-RW2025-092)
+Highlighted by Nature Chemical Biology, 21, 1643 (2025), Cancer Discovery, doi.org/10.1158/2159-8290.CD-RW2025-092 (2025).
 2. Shuojun Li; Jiaying Li; Moqing Du; Guiyun Deng; Zhiyong Song; Heyou Han*; Efficient Gene Silencing in Intact Plant Cells Using siRNA Delivered By Functional Graphene Oxide Nanoparticles, Angewandte Chemie, 2022, 134: e202210014 (Hot Paper) 
 3. Shuojun Li#; Moqing Du#; Jiamin Deng; Guiyun Deng; Jiaying Li; Zhiyong Song; Heyou Han*; Gene editing of Duchenne muscular dystrophy using biomineralization-based spCas9 variant nanoparticles, Acta Biomaterialia, 2022, 154: 597-607 
 4. Shuojun Li#; Yuying Long#; Guiyun Deng; Yinghui Men; Feifan Lu; Zihan Wang; Jiaying Li; Heyou Han*; Manganese-based nanozyme enables efficient mitigation of Huanglongbing-induced oxidative damage in Citrus, Environmental Science: Nano, 2025,12: 701-715
@@ -33,3 +32,4 @@ Highlighted by Cancer Discovery (Doi.org/10.1158/2159-8290.CD-RW2025-092)
 6. Shuojun Li#; Yumei Sun#; Moqing Du; Aishao Shangguan; Zhongzhu Liu; Wentao Li; Liu Lina; Wenju Liu; Shujun Zhang*; Heyou Han*; Graphene Oxide Nanoparticles Combined with CRISPR/Cas9 System Enable Efficient Inhibition of Pseudorabies Virus, Bioconjugate Chemistry, 2023, 34: 326-332 
 7. Jiaying Li#, Shuojun Li#, Moqing Du, Zhiyong Song, and Heyou Han*. Nuclear Delivery of Exogenous Gene in Mature Plants Using Nuclear Location Signal and Cell-Penetrating Peptide Nanocomplex, ACS Appl. Nano Mater, 2023, 6, 160−170
 8, Guiyun Deng#, Feifan Lu#, Shuojun Li#, Yuying Long, Jianghong Wu, Xiaofeng Guo, Chunyin Li, Zhiyong Song, Mohamed F. Foda, Fang Ding*, Heyou Han*. A two-in-one molybdenum disulfide-chitosan nanoparticles system for activating plant defense mechanisms and reactive oxygen species to treat Citrus Huanglongbing, Int. J. Biol. Macromol, 2024, 280, 135528
+<img width="415" height="705" alt="image" src="https://github.com/user-attachments/assets/00b92aaf-6122-4030-907b-787b696db34d" />
