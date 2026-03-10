@@ -1,4 +1,3 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/dc0a7abc-5587-43c3-800d-3417613f60f7" />## 2025
 
 **Li S#**, Men Y#, Wang Z#, Wu Y#, Sun H, Yin M, Fan X, Deng G, Yang Z, Yang T, Xiao Y, Zhou H, Wang G, Fan J, Xu C, Gao Q*, Han S*.  
 Amplifying antigen-induced cellular responses with proximity labelling.  
