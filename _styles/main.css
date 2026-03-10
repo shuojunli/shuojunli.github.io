@@ -1,14 +1,19 @@
+html, body {
+  background: #071a2b;
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+}
+
 main {
   display: flex;
   flex-direction: column;
 }
 
-body {
-  background: transparent !important;
-}
-
 section {
-  background: transparent !important;
+  background: transparent;
 }
 
 /*# sourceMappingURL=main.css.map */
