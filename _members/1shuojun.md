@@ -4,7 +4,7 @@ image: images/shuojun.jpg
 role: principal-investigator
 
 links:
-  home-page: [https://janesmith.com](https://scholar.google.com/citations?user=dhTeoxMAAAAJ&hl=zh-CN)
+  home-page: "https://scholar.google.com/citations?user=dhTeoxMAAAAJ&hl=zh-CN"
   orcid: 0009-0005-8198-8165
 ---
 
