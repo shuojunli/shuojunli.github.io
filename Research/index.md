@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# We are a chemical biology lab exploring nanozyme-catalyzed molecular labeling and functional regulation in vivo
+# We are a chemical biology lab exploring nanozyme catalyzed molecular labeling and functional regulation in vivo
 
 
 ## Featured
