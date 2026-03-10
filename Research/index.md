@@ -5,9 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
-
-We are a chemical biology lab exploring nanozyme-catalyzed molecular labeling and functional regulation in vivo
+# We are a chemical biology lab exploring nanozyme-catalyzed molecular labeling and functional regulation in vivo
 
 
 ## Featured
