@@ -21,7 +21,7 @@ section[data-size=full] img {
 }
 
 main > section:last-of-type {
-  flex-grow: 1;
+  flex-grow: 0;
 }
 
 main > section:nth-of-type(odd) {
