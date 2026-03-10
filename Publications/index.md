@@ -1,27 +1,35 @@
----
-title: Publications
-nav:
-  order: 2
-  tooltip: Published works
----
+## 2025
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+**Li S#**, Men Y#, Wang Z#, Wu Y#, Sun H, Yin M, Fan X, Deng G, Yang Z, Yang T, Xiao Y, Zhou H, Wang G, Fan J, Xu C, Gao Q*, Han S*.  
+Amplifying antigen-induced cellular responses with proximity labelling.  
+*Nature*, 2025.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Li S#**, Long Y#, Deng G, Men Y, Lu F, Wang Z, Li J, Han H*.  
+Manganese-based nanozyme enables efficient mitigation of Huanglongbing-induced oxidative damage in Citrus.  
+*Environmental Science: Nano*, 2025.
 
-{% include section.html %}
+## 2024
 
-## Highlighted
+**Deng G#**, Lu F#, **Li S#**, Long Y, Wu J, Guo X, Li C, Song Z, Foda M, Ding F*, Han H*.  
+*International Journal of Biological Macromolecules*, 2024.
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+## 2023
 
-{% include section.html %}
+**Li S#**, Sun Y#, Du M, Shangguan A, Liu Z, Li W, Lina L, Liu W, Zhang S*, Han H*.  
+*Bioconjugate Chemistry*, 2023.
 
-## All
+Li J#, **Li S#**, Du M, Song Z, Han H*.  
+*ACS Applied Nano Materials*, 2023.
 
-{% include search-box.html %}
+## 2022
 
-{% include search-info.html %}
+**Li S**, Li J, Du M, Deng G, Song Z, Han H*.  
+*Angewandte Chemie International Edition*, 2022.
 
-{% include list.html data="citations" component="citation" style="rich" %}
+**Li S#**, Du M#, Deng J, Deng G, Li J, Song Z, Han H*.  
+*Acta Biomaterialia*, 2022.
+
+## 2019
+
+**Li S#**, Song Z#, Liu C, Chen X*, Han H*.  
+*ACS Applied Materials & Interfaces*, 2019.
