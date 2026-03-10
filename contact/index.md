@@ -7,21 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We welcome motivated postdoctoral researchers, graduate students, and undergraduates to join the team！
+# We welcome motivated postdoctoral researchers, graduate students, and undergraduates to join the team！
 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="shuojunli@fudan.edu.cn"
+  link="shuojunli@fudan.edu.cn"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
@@ -44,8 +39,7 @@ We welcome motivated postdoctoral researchers, graduate students, and undergradu
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/c2.jpg"
 %}
 
 {% endcapture %}
