@@ -577,6 +577,15 @@
     
       
         <a
+          href="/Publications/"
+          data-tooltip="Publications"
+        >
+          Publications
+        </a>
+      
+    
+      
+        <a
           href="/team/"
           data-tooltip="About our team"
         >
