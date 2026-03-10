@@ -10,17 +10,21 @@
 {% assign type = site.data.types[member.role] %}
 
 <div class="portrait-wrapper">
-  <a
-    {% if page.slug != member.slug %}
-      href="{{ member.url | relative_url | uri_escape }}"
-    {% endif %}
-    class="portrait"
-    data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" | regex_strip }}"
-  >
-    {% if type %}
-      {% include icon.html icon=type.icon %}
-    {% endif %}
+
+{% if member.slug == "1shuojun" %}
+<a
+  href="{{ member.url | relative_url | uri_escape }}"
+  class="portrait"
+  data-style="{{ include.style }}"
+  aria-label="{{ member.name | regex_strip }}"
+>
+{% else %}
+<div
+  class="portrait"
+  data-style="{{ include.style }}"
+  aria-label="{{ member.name | regex_strip }}"
+>
+{% endif %}
 
     <img
       src="{{ member.image | relative_url | uri_escape }}"
@@ -47,5 +51,11 @@
         {{ member.affiliation }}
       </span>
     {% endif %}
-  </a>
+
+{% if member.slug == "1shuojun" %}
+</a>
+{% else %}
+</div>
+{% endif %}
+
 </div>
