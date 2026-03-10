@@ -644,19 +644,37 @@
 >
   
 <div class="portrait-wrapper">
+  
+    <div class="portrait" data-style="" aria-label="Luyu Li 李璐妤">
+  
 
+    
 
-<div class="portrait" data-style="" aria-label="Luyu Li 李璐妤">
+    <img src="/images/li.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
+    
+      <span class="portrait-name">
+        Luyu Li (李璐妤)
+      </span>
+    
 
+    
+      <span class="portrait-description">
+        Ph.D. Student
+      </span>
+    
+
+    
+
+  
+    </div>
+  
 </div>
-
 
 <div>
   
 </div>
 
-</div>
 
 </div>
 

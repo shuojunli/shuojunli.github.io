@@ -644,19 +644,37 @@
 >
   
 <div class="portrait-wrapper">
+  
+    <div class="portrait" data-style="" aria-label="Dr. Guiyun Deng 邓桂云">
+  
 
+    
 
-<div class="portrait" data-style="" aria-label="Dr. Guiyun Deng 邓桂云">
+    <img src="/images/deng.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
+    
+      <span class="portrait-name">
+        Dr. Guiyun Deng (邓桂云)
+      </span>
+    
 
+    
+      <span class="portrait-description">
+        Postdoctoral Fellow
+      </span>
+    
+
+    
+
+  
+    </div>
+  
 </div>
-
 
 <div>
   
 </div>
 
-</div>
 
 </div>
 
