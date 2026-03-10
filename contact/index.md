@@ -37,7 +37,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/c1.jpg"
-  caption="上海市杨浦区淞沪路2005号复旦大学江湾校区生命科学学院C321"
 %}
 
 {% endcapture %}
@@ -75,3 +74,8 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+上海市杨浦区淞沪路2005号复旦大学江湾校区生命科学学院C321
+Room C321, School of Life Sciences, Fudan University
+2005 Songhu Rd, Yangpu District
+Shanghai 200438, China
