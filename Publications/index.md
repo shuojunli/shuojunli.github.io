@@ -1,4 +1,4 @@
-## 2025
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/dc0a7abc-5587-43c3-800d-3417613f60f7" />## 2025
 
 **Li S#**, Men Y#, Wang Z#, Wu Y#, Sun H, Yin M, Fan X, Deng G, Yang Z, Yang T, Xiao Y, Zhou H, Wang G, Fan J, Xu C, Gao Q*, Han S*.  
 Amplifying antigen-induced cellular responses with proximity labelling.  
@@ -7,20 +7,20 @@ Highlighted by Nature Chemical Biology (2025, 21, 1643) and Cancer Discovery (20
 
 **Li S#**, Long Y#, Deng G, Men Y, Lu F, Wang Z, Li J, Han H*.  
 Manganese-based nanozyme enables efficient mitigation of Huanglongbing-induced oxidative damage in Citrus.  
-*Environmental Science: Nano*, 2025.
+*Environmental Science: Nano*, 2024, 12: 701-715
 
 ## 2024
 
 **Deng G#**, Lu F#, **Li S#**, Long Y, Wu J, Guo X, Li C, Song Z, Foda M, Ding F*, Han H*.  
-*International Journal of Biological Macromolecules*, 2024.
+*International Journal of Biological Macromolecules*, 2024, 280, 135528
 
 ## 2023
 
 **Li S#**, Sun Y#, Du M, Shangguan A, Liu Z, Li W, Lina L, Liu W, Zhang S*, Han H*.  
-*Bioconjugate Chemistry*, 2023.
+*Bioconjugate Chemistry*, 2023, 34(2): 326-332
 
 Li J#, **Li S#**, Du M, Song Z, Han H*.  
-*ACS Applied Nano Materials*, 2023.
+*ACS Applied Nano Materials*, 2023, 6, 160-170
 
 ## 2022
 
@@ -33,4 +33,4 @@ Li J#, **Li S#**, Du M, Song Z, Han H*.
 ## 2019
 
 **Li S#**, Song Z#, Liu C, Chen X*, Han H*.  
-*ACS Applied Materials & Interfaces*, 2019.
+*ACS Applied Materials & Interfaces*, 2019, 11(51), 47762-47770 
