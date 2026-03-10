@@ -6,3 +6,17 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  background: transparent !important;
+}
+
+body {
+  background: transparent !important;
+}
+
+section {
+  background: transparent !important;
+}
