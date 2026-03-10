@@ -1,5 +1,5 @@
 ---
-name: Dr.Shuojun Li
+name: Dr.Shuojun Li （李烁钧）
 image: images/shuojun.jpg
 role: principal-investigator
 
