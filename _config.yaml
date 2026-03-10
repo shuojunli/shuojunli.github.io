@@ -1,17 +1,17 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Shuojun Lab
+subtitle: in Fudan University
+description: Chemical Biology and Nanozyme Engineering
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  email: shuojunli@fudan.edu.cn
+  orcid: 0009-0005-8198-8165
+  google-scholar: https://scholar.google.com/citations?user=dhTeoxMAAAAJ&hl=zh-CN
+  github: shuojunli
   twitter: YourLabHandle
   youtube: YourLabChannel
 
