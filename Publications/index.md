@@ -8,7 +8,7 @@ nav:
 
 **Li S#**, Men Y#, Wang Z#, Wu Y#, Sun H, Yin M, Fan X, Deng G, Yang Z, Yang T, Xiao Y, Zhou H, Wang G, Fan J, Xu C, Gao Q\*, Han S\*.  
 Amplifying antigen-induced cellular responses with proximity labelling.  
-*Nature*, 2025, 647(8089): 506-516
+*Nature*, 2025, 647(8089): 506-516<br>
 Highlighted by Nature Chemical Biology (2025, 21, 1643) and Cancer Discovery (2025).
 
 **Li S#**, Long Y#, Deng G, Men Y, Lu F, Wang Z, Li J, Han H\*.  
