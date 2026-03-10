@@ -47,17 +47,17 @@
 <link rel="icon" href="/images/icon.png">
 
 <meta name="title" content="Dr. Guiyun Deng (邓桂云)">
-<meta name="description" content="Chemical Biology and Nanozyme Engineering">
+<meta name="description" content="Postdoctoral Fellow">
 
 <meta property="og:title" content="Dr. Guiyun Deng (邓桂云)">
 <meta property="og:site_title" content="Shuojun Lab">
-<meta property="og:description" content="Chemical Biology and Nanozyme Engineering">
+<meta property="og:description" content="Postdoctoral Fellow">
 <meta property="og:url" content="https://shuojunli.github.io">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Dr. Guiyun Deng (邓桂云)">
-<meta property="twitter:description" content="Chemical Biology and Nanozyme Engineering">
+<meta property="twitter:description" content="Postdoctoral Fellow">
 <meta property="twitter:url" content="https://shuojunli.github.io">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
@@ -73,7 +73,7 @@
       "@type": "WebSite",
     
     "name": "Dr. Guiyun Deng (邓桂云)",
-    "description": "Chemical Biology and Nanozyme Engineering",
+    "description": "Postdoctoral Fellow",
     "headline": "Dr. Guiyun Deng (邓桂云)",
     "publisher": {
       "@type": "Organization",
@@ -655,6 +655,10 @@
       </span>
     
 
+    
+      <span class="portrait-description">
+        Postdoctoral Fellow
+      </span>
     
 
     
