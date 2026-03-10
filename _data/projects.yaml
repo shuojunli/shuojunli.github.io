@@ -1,18 +1,14 @@
 - title: Molecular Label
   group: featured
-  image: R1.jpg
+  image: images/R1.jpg
   description: Development and expansion of nanozyme baased molecular labeling systems
 
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Immune regulation
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/R2.jpg
+  description: Cell Surface Engineering and Innovative Immunotherapies
+ 
 
 - title: Cool Tutorial
   subtitle: a subtitle
