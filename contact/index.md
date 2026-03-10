@@ -25,21 +25,3 @@ We welcome motivated postdoctoral researchers, graduate students, and undergradu
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html %}
-
-{% capture col1 %}
-<p>
-Room C321, School of Life Sciences, Fudan University<br>
-2005 Songhu Rd, Yangpu District<br>
-Shanghai 200438, China<br><br>
-上海市杨浦区淞沪路2005号<br>
-复旦大学江湾校区生命科学学院 C321
-</p>
-{% endcapture %}
-
-{% capture col2 %}
-{% include map.html link="https://www.google.com/maps" %}
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
