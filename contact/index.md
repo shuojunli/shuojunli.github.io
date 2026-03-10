@@ -45,13 +45,10 @@ nav:
 {% include section.html %}
 
 {% capture col1 %}
-<p>
-Room C321, School of Life Sciences, Fudan University<br>
+<p style="font-size:1.1rem; line-height:1.6;">
+<strong>Room C321, School of Life Sciences, Fudan University</strong><br>
 2005 Songhu Rd, Yangpu District<br>
 Shanghai 200438, China<br><br>
-上海市杨浦区淞沪路2005号<br>
+<strong>上海市杨浦区淞沪路2005号</strong><br>
 复旦大学江湾校区生命科学学院 C321
 </p>
-{% endcapture %}
-
-{% include cols.html col1=col1 %}
