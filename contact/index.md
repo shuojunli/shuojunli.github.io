@@ -36,8 +36,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/c1.jpg"
+  caption="上海市杨浦区淞沪路2005号复旦大学江湾校区生命科学学院C321"
 %}
 
 {% endcapture %}
