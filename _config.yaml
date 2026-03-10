@@ -10,10 +10,6 @@ proofer: false
 links:
   email: shuojunli@fudan.edu.cn
   orcid: 0009-0005-8198-8165
-  google-scholar: https://scholar.google.com/citations?user=dhTeoxMAAAAJ&hl=zh-CN
-  github: shuojunli
-  twitter: YourLabHandle
-  youtube: YourLabChannel
 
 ### jekyll settings
 
