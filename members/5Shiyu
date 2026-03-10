@@ -644,31 +644,19 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Shiyu Xia 夏诗雨">
-    
 
-    <img src="/images/xia.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
-    
-      <span class="portrait-name">
-        Shiyu Xia (夏诗雨)
-      </span>
-    
+<div class="portrait" data-style="" aria-label="Shiyu Xia 夏诗雨">
 
-    
-      <span class="portrait-description">
-        M.SC. Student
-      </span>
-    
 
-    
-  </a>
 </div>
+
 
 <div>
   
 </div>
 
+</div>
 
 </div>
 

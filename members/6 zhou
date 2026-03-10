@@ -644,31 +644,19 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Xuan Zhou 周璇">
-    
 
-    <img src="/images/zhou.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
-    
-      <span class="portrait-name">
-        Xuan Zhou (周璇)
-      </span>
-    
+<div class="portrait" data-style="" aria-label="Xuan Zhou 周璇">
 
-    
-      <span class="portrait-description">
-        Visiting Student
-      </span>
-    
 
-    
-  </a>
 </div>
+
 
 <div>
   
 </div>
 
+</div>
 
 </div>
 

@@ -644,31 +644,19 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Xuan Chen 陈旋">
-    
 
-    <img src="/images/chen.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
-    
-      <span class="portrait-name">
-        Xuan Chen (陈旋)
-      </span>
-    
+<div class="portrait" data-style="" aria-label="Xuan Chen 陈旋">
 
-    
-      <span class="portrait-description">
-        Ph.D. Student
-      </span>
-    
 
-    
-  </a>
 </div>
+
 
 <div>
   
 </div>
 
+</div>
 
 </div>
 
