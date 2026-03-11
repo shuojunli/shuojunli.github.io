@@ -3,5 +3,5 @@ layout: default
 ---
 
 <div class="welcome">
-Welcome to the Shuojun Lab
+Welcome
 </div>
