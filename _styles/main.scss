@@ -23,21 +23,28 @@ body.homepage {
 /* 首页主区域 */
 body.homepage main {
   background: transparent !important;
-  height: 260px !important;
+  height: 220px !important;
   min-height: 0 !important;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0 !important;
+  margin: 0 !important;
 }
 
-/* 把首页里常见的白色内容容器一起打掉 */
+/* 把首页里常见的白色内容容器一起打掉，并清掉额外高度 */
 body.homepage .content,
 body.homepage .inner,
 body.homepage section,
 body.homepage article,
 body.homepage [data-size="page"] {
   background: transparent !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
 }
 
 /* Welcome 样式 */
@@ -48,4 +55,5 @@ body.homepage .welcome {
   letter-spacing: 10px;
   text-align: center;
   margin: 0;
+  line-height: 1;
 }
