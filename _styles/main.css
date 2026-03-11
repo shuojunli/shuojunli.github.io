@@ -1,15 +1,26 @@
+@charset "UTF-8";
 html, body {
   margin: 0;
   padding: 0;
 }
 
 body {
-  background: white;
+  background: #ffffff;
 }
 
 main {
   min-height: 600px;
-  background: white;
+  background: #ffffff;
+}
+
+/* 首页 main 背景透明 */
+body.homepage main {
+  background: transparent;
+}
+
+/* 首页整体深色背景 */
+body.homepage {
+  background: #071a2b;
 }
 
 /*# sourceMappingURL=main.css.map */
