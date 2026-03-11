@@ -98,23 +98,4 @@ body {
   font-size: 16px;
 }
 
-/* research / featured 卡片图片：完整显示，不裁切 */
-.card-image,
-.feature-image {
-  height: 320px !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  overflow: hidden !important;
-  background: #ffffff;
-}
-
-.card-image img,
-.feature-image img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: contain !important;
-  display: block !important;
-}
-
 /*# sourceMappingURL=main.css.map */
