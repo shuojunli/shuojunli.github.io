@@ -1,22 +1,39 @@
-/* 确保 main 容器是透明的，露出 body 的深色背景 */
+/* 基础设置：让所有页面基础背景为白色（针对 Publications 等页面） */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white; 
+}
+
+/* 默认 main 样式（非首页页面） */
 main {
-    background: transparent !important;
+    background-color: white;
+    min-height: 600px;
 }
 
-/* 如果有一个叫做 .wrapper 或 .container 的类，也要设为透明 */
-.wrapper, .container {
-    background: transparent !important;
-    box-shadow: none !important; /* 去除可能存在的阴影 */
-}
+/* --- 核心修改：针对主页的特殊处理 --- */
+.home-page {
+    /* 1. 让主页的背景和上下背景图融为一体 */
+    background-color: #071a2b; 
 
-/* 优化 welcome 文字样式 */
-.welcome {
-    font-size: 72px;
-    text-align: center;
-    color: white;
-    padding-top: 150px; /* 用 padding 代替 margin 避免背景断层 */
-    padding-bottom: 150px;
-    font-weight: 300;
-    letter-spacing: 4px;
-    text-transform: uppercase; /* 让 Welcome 变成大写，更有设计感 */
+    /* 2. 彻底干掉主页中间的白框 */
+    main {
+        background-color: transparent !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 40vh; /* 调整这个值可以控制中间深色区域的高度 */
+    }
+
+    /* 3. 让 Welcome 文字变漂亮 */
+    .welcome {
+        color: white;
+        font-size: 80px;      /* 调大字体 */
+        font-weight: 100;     /* 极细字体更有高级感 */
+        letter-spacing: 12px; /* 字间距拉大 */
+        text-transform: uppercase;
+        margin: 0;
+        padding: 100px 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
 }
