@@ -23,10 +23,12 @@ body.homepage {
 /* 首页主区域 */
 body.homepage main {
   background: transparent !important;
-  min-height: 30vh;
+  height: 260px !important;
+  min-height: 0 !important;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 0 !important;
 }
 
 /* 把首页里常见的白色内容容器一起打掉 */
