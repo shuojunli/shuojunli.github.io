@@ -1,14 +1,11 @@
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
-main {
-  flex: 1;
-}
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main>
+      {% include content.html content=content %}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
