@@ -1,3 +1,4 @@
 ---
-layout: home
+layout: default
 ---
+<div class="welcome">Welcome</div>
