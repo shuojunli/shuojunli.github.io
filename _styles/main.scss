@@ -1,4 +1,24 @@
-/* 首页背景与整体布局 */
+---
+---
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* 默认页面背景 */
+body {
+  background: #ffffff;
+}
+
+/* 默认 main */
+main {
+  min-height: 600px;
+  background: #ffffff;
+}
+
+/* ===== 首页整体布局 ===== */
+
 body.homepage {
   background: #071a2b;
   min-height: 100vh;
@@ -6,7 +26,7 @@ body.homepage {
   flex-direction: column;
 }
 
-/* 首页主区域 */
+/* 首页中间 welcome 区域 */
 body.homepage main {
   background: transparent !important;
   height: 220px !important;
@@ -19,7 +39,7 @@ body.homepage main {
   flex: 0 0 auto;
 }
 
-/* 清掉首页内容容器额外高度 */
+/* 去掉首页内容容器的默认白色背景和高度 */
 body.homepage .content,
 body.homepage .inner,
 body.homepage section,
@@ -34,7 +54,7 @@ body.homepage [data-size="page"] {
   height: auto !important;
 }
 
-/* footer 贴底 */
+/* footer 固定到底部 */
 body.homepage footer {
   margin-top: auto;
 }
