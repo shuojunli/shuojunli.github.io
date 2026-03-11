@@ -7,28 +7,21 @@ html, body {
   background: #071a2b;
 }
 
-body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+section {
+  background: transparent;
 }
 
 footer {
-  margin-top: auto;
   background: transparent;
   text-align: center;
   padding: 40px 0;
-}
-
-section {
-  background: transparent;
 }
 
 .welcome {
   font-size: 72px;
   text-align: center;
   color: white;
-  margin-top: 120px;
+  margin-top: 200px;
   font-weight: 300;
   letter-spacing: 4px;
 }
