@@ -80,4 +80,22 @@ body.homepage .welcome {
   line-height: 1;
 }
 
+header h1 {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+a {
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+footer {
+  font-size: 15px;
+}
+
+body {
+  font-size: 16px;
+}
+
 /*# sourceMappingURL=main.css.map */
