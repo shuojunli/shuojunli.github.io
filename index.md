@@ -1,4 +1,7 @@
 ---
 layout: default
 ---
-Welcome
+
+<div class="welcome">
+WELCOME
+</div>
