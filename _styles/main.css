@@ -21,7 +21,7 @@ body.homepage {
 /* 首页主区域 */
 body.homepage main {
   background: transparent !important;
-  min-height: 50vh;
+  min-height: 30vh;
   display: flex;
   align-items: center;
   justify-content: center;
