@@ -1,0 +1,22 @@
+/* 确保 main 容器是透明的，露出 body 的深色背景 */
+main {
+    background: transparent !important;
+}
+
+/* 如果有一个叫做 .wrapper 或 .container 的类，也要设为透明 */
+.wrapper, .container {
+    background: transparent !important;
+    box-shadow: none !important; /* 去除可能存在的阴影 */
+}
+
+/* 优化 welcome 文字样式 */
+.welcome {
+    font-size: 72px;
+    text-align: center;
+    color: white;
+    padding-top: 150px; /* 用 padding 代替 margin 避免背景断层 */
+    padding-bottom: 150px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    text-transform: uppercase; /* 让 Welcome 变成大写，更有设计感 */
+}
