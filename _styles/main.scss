@@ -6,19 +6,16 @@ html, body {
   padding: 0;
 }
 
-/* 默认页面背景 */
 body {
   background: #ffffff;
 }
 
-/* 默认 main */
 main {
   min-height: 600px;
   background: #ffffff;
 }
 
-/* ===== 首页整体布局 ===== */
-
+/* 首页整体 */
 body.homepage {
   background: #071a2b;
   min-height: 100vh;
@@ -26,40 +23,55 @@ body.homepage {
   flex-direction: column;
 }
 
-/* 首页中间 welcome 区域 */
-body.homepage main {
+/* 首页欢迎条 */
+body.homepage > main {
   background: transparent !important;
   height: 220px !important;
   min-height: 0 !important;
+  flex: 0 0 220px !important;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0 !important;
   margin: 0 !important;
-  flex: 0 0 auto;
 }
 
-/* 去掉首页内容容器的默认白色背景和高度 */
+/* 清掉首页内容容器自带留白 */
 body.homepage .content,
 body.homepage .inner,
 body.homepage section,
 body.homepage article,
 body.homepage [data-size="page"] {
   background: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
+}
+
+/* footer 直接压到底，并缩窄 */
+body.homepage > footer {
+  margin-top: auto !important;
+  flex: 0 0 auto !important;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  min-height: 0 !important;
+}
+
+/* footer 里面常见容器也压缩 */
+body.homepage > footer .content,
+body.homepage > footer .inner,
+body.homepage > footer section,
+body.homepage > footer article,
+body.homepage > footer [data-size] {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
   margin-top: 0 !important;
   margin-bottom: 0 !important;
   min-height: 0 !important;
-  height: auto !important;
 }
 
-/* footer 固定到底部 */
-body.homepage footer {
-  margin-top: auto;
-}
-
-/* Welcome 样式 */
+/* Welcome */
 body.homepage .welcome {
   color: white;
   font-size: 80px;
