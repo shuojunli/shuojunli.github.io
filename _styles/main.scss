@@ -1,39 +1,39 @@
-/* 基础设置：让所有页面基础背景为白色（针对 Publications 等页面） */
 body {
-    margin: 0;
-    padding: 0;
-    background-color: white; 
+  margin: 0;
+  padding: 0;
+  background-color: white;
 }
 
-/* 默认 main 样式（非首页页面） */
+/* 普通页面 */
 main {
-    background-color: white;
-    min-height: 600px;
+  background-color: white;
+  min-height: 600px;
 }
 
-/* --- 核心修改：针对主页的特殊处理 --- */
-.home-page {
-    /* 1. 让主页的背景和上下背景图融为一体 */
-    background-color: #071a2b; 
+/* 首页单独布局 */
+body.home-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #071a2b;
+}
 
-    /* 2. 彻底干掉主页中间的白框 */
-    main {
-        background-color: transparent !important;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        min-height: 40vh; /* 调整这个值可以控制中间深色区域的高度 */
-    }
+body.home-layout .home-hero {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+}
 
-    /* 3. 让 Welcome 文字变漂亮 */
-    .welcome {
-        color: white;
-        font-size: 80px;      /* 调大字体 */
-        font-weight: 100;     /* 极细字体更有高级感 */
-        letter-spacing: 12px; /* 字间距拉大 */
-        text-transform: uppercase;
-        margin: 0;
-        padding: 100px 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    }
+body.home-layout .welcome {
+  color: white;
+  font-size: 80px;
+  font-weight: 300;
+  letter-spacing: 12px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 80px 20px;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
