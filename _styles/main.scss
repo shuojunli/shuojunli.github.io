@@ -1,21 +1,9 @@
-@charset "UTF-8";
-html, body {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  background: #ffffff;
-}
-
-main {
-  min-height: 600px;
-  background: #ffffff;
-}
-
-/* 首页背景 */
+/* 首页背景与整体布局 */
 body.homepage {
   background: #071a2b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 /* 首页主区域 */
@@ -28,14 +16,15 @@ body.homepage main {
   justify-content: center;
   padding: 0 !important;
   margin: 0 !important;
+  flex: 0 0 auto;
 }
 
-/* 把首页里常见的白色内容容器一起打掉，并清掉额外高度 */
+/* 清掉首页内容容器额外高度 */
 body.homepage .content,
 body.homepage .inner,
 body.homepage section,
 body.homepage article,
-body.homepage [data-size=page] {
+body.homepage [data-size="page"] {
   background: transparent !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;
@@ -43,6 +32,11 @@ body.homepage [data-size=page] {
   margin-bottom: 0 !important;
   min-height: 0 !important;
   height: auto !important;
+}
+
+/* footer 贴底 */
+body.homepage footer {
+  margin-top: auto;
 }
 
 /* Welcome 样式 */
@@ -55,5 +49,3 @@ body.homepage .welcome {
   margin: 0;
   line-height: 1;
 }
-
-/*# sourceMappingURL=main.css.map */
