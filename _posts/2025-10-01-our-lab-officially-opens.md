@@ -1,5 +1,5 @@
 ---
-title: "Our Lab Officially Opens"
+title: "Our Lab Officially Launched"
 date: 2025-11-01
 tags:
   - news
