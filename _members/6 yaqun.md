@@ -1,5 +1,5 @@
 ---
 name: Yaqun Zhao (赵亚群)
-image: images/zhao.jpg
+image: images/zhao.png
 description:  Ph.D. Student
 ---
